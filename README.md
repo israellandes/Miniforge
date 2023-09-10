@@ -1,5 +1,5 @@
 # Miniforge
-(How to install Conda on Le Potato Ubuntu Versions?)[https://hub.libre.computer/t/how-to-install-conda-on-le-potato-ubuntu-versions/1516]
+[How to install Conda on Le Potato Ubuntu Versions?](https://hub.libre.computer/t/how-to-install-conda-on-le-potato-ubuntu-versions/1516)
 
 ---
 # Failed Test
