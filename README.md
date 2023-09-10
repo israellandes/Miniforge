@@ -22,11 +22,11 @@ PS. I also tried installing Anaconda as an alternative, but this process got hun
 
 ## Use Miniforge if your trying to install Conda environment on Le Potato or Raspberry Pi like computers.
 
-`wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-aarch64.sh`
-`sha256sum Miniforge3-Linux-aarch64.sh`
-`chmod +x Miniforge3-Linux-aarch64.sh`
-`./Miniforge3-Linux-aarch64.sh`
-`# Exit & Re-enter shell`
-`conda activate base`
-
+`wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-aarch64.sh`<br>
+`sha256sum Miniforge3-Linux-aarch64.sh`<br>
+`chmod +x Miniforge3-Linux-aarch64.sh`<br>
+`./Miniforge3-Linux-aarch64.sh`<br>
+`# Exit & Re-enter shell`<br>
+`conda activate base`<br>
+<br>
 Cheers.
